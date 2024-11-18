@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harshkdev10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshkdev10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harsh kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsh-kumar-992b54247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh kumar" height="30" width="40" /></a>
 <a href="https://codesandbox.com/harshnaruto7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="harshnaruto7" height="30" width="40" /></a>
 <a href="https://instagram.com/harshnaruto7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshnaruto7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harshnaruto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshnaruto" height="30" width="40" /></a>
