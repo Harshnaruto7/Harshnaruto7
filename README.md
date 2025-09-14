@@ -1,17 +1,12 @@
 <div align="center">
-  <img height="400" width="800" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hnMDdmajliemVmdzVuM2dkNWludjY0YXc0cHphaHM2Nm54dGRieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4N6wTrf1v6yQ/giphy.gif"  />
+  <img height="400" width="600" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hnMDdmajliemVmdzVuM2dkNWludjY0YXc0cHphaHM2Nm54dGRieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4N6wTrf1v6yQ/giphy.gif"  />
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&text=Harsh%20%20Kumar%20🌌&textBg=false&fontColor=F75270" />
 </div>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=harshnaruto7.harshnaruto7&left_color=beige"  />
 </div>
-
-
 <h3 align="left">👩‍💻 About Me</h3>
 
 ###
